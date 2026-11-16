@@ -1,0 +1,14 @@
+/.vs/
+/node_modules/
+/dist/
+/public/*
+# Página de retorno del login con Microsoft (MSAL): debe versionarse y publicarse
+!/public/redirect.html
+/*.log
+package-lock.json
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+# Variables de entorno locales por máquina (p.ej. VITE_API_URL)
+*.local
